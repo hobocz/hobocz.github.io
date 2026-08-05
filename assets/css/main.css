@@ -84,6 +84,7 @@ input, select, textarea {
 
 	body {
 		background: #fff;
+		/* background: #575142; */
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -1800,7 +1801,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		font-size: 2em;
+		font-size: 1.5em;
 	}
 
 /* Form */
@@ -2452,7 +2453,8 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-		background-color: transparent;
+		/* background-color: transparent; */
+		background-color: #fff;
 		border-radius: 0.35em;
 		/* border: solid 3px #efefef; */
 		border: solid 3px rgba(0, 0, 139, 0.3);
@@ -2643,7 +2645,7 @@ input, select, textarea {
 
 		#header h1 {
 			color: rgba(255, 255, 255);
-			font-size: 1.35em;
+			font-size: 2em;
 			line-height: 1.75em;
 			margin: 0;
 		}
