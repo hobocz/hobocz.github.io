@@ -3236,3 +3236,7 @@ input, select, textarea {
 			}
 
 	}
+
+.italics {
+	font-style: italic;
+}
